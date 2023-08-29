@@ -1,0 +1,141 @@
+2023-06-27 14:00:45.3068 Info Message Template Auto Format enabled
+2023-06-27 14:00:45.4766 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-06-27 14:00:45.5162 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-07-01 12:14:41.0420 Info Message Template Auto Format enabled
+2023-07-01 12:14:41.1585 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-01 12:14:41.1946 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-07-01 12:19:28.6438 Info Message Template Auto Format enabled
+2023-07-01 12:19:28.8436 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-01 12:19:28.9041 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-07-01 12:49:58.1383 Info Message Template Auto Format enabled
+2023-07-01 12:49:58.3506 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-01 12:49:58.4179 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-07-04 18:19:29.9689 Info Message Template Auto Format enabled
+2023-07-04 18:19:30.1018 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 18:19:30.1609 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-07-04 18:24:52.5791 Info Message Template Auto Format enabled
+2023-07-04 18:24:52.7597 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 18:24:52.8140 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-07-04 18:26:15.2030 Info Message Template Auto Format enabled
+2023-07-04 18:26:15.3145 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 18:26:15.3972 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-07-04 18:29:46.5852 Info Message Template Auto Format enabled
+2023-07-04 18:29:46.7840 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 18:29:46.8323 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-07-04 19:11:14.7967 Info Message Template Auto Format enabled
+2023-07-04 19:11:15.0517 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 19:11:15.1269 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-07-04 19:13:11.7474 Info Message Template Auto Format enabled
+2023-07-04 19:13:11.8951 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 19:13:11.9689 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-07-12 11:27:01.8154 Info Message Template Auto Format enabled
+2023-07-12 11:27:01.9591 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-12 11:27:02.4432 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-07-12 11:29:05.2885 Info Message Template Auto Format enabled
+2023-07-12 11:29:05.4260 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-12 11:29:05.4858 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-07-12 11:30:32.4784 Info Message Template Auto Format enabled
+2023-07-12 11:30:32.6738 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-12 11:30:32.7378 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-07-22 16:08:55.7975 Info Message Template Auto Format enabled
+2023-07-22 16:08:55.9541 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-22 16:08:55.9843 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-07-22 16:48:32.0081 Info Message Template Auto Format enabled
+2023-07-22 16:48:32.1490 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-22 16:48:32.2152 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-07-31 20:30:06.5389 Info Message Template Auto Format enabled
+2023-07-31 20:30:06.6471 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-31 20:30:06.6771 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-06 13:43:06.7832 Info Message Template Auto Format enabled
+2023-08-06 13:43:07.0098 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-06 13:43:07.1301 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-06 13:47:10.7235 Info Message Template Auto Format enabled
+2023-08-06 13:47:10.9597 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-06 13:47:11.0226 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-06 13:49:10.7168 Info Message Template Auto Format enabled
+2023-08-06 13:49:10.9943 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-06 13:49:11.0377 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-06 13:49:48.8277 Info Message Template Auto Format enabled
+2023-08-06 13:49:48.9261 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-06 13:49:48.9586 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-06 14:11:12.1979 Info Message Template Auto Format enabled
+2023-08-06 14:11:12.3962 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-06 14:11:12.4399 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-06 14:15:40.4984 Info Message Template Auto Format enabled
+2023-08-06 14:15:40.6931 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-06 14:15:40.7465 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-06 14:27:19.1491 Info Message Template Auto Format enabled
+2023-08-06 14:27:19.2790 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-06 14:27:19.3140 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-07 12:43:54.4084 Info Message Template Auto Format enabled
+2023-08-07 12:43:54.5135 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 12:43:54.5466 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-07 12:47:01.7443 Info Message Template Auto Format enabled
+2023-08-07 12:47:01.9726 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 12:47:02.0170 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-08 10:35:08.2478 Info Message Template Auto Format enabled
+2023-08-08 10:35:08.3616 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-08 10:35:08.3994 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-14 11:12:54.3563 Info Message Template Auto Format enabled
+2023-08-14 11:12:54.4177 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-14 11:12:54.4395 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-14 11:12:55.7743 Info AppDomain Shutting down. LogFactory closing...
+2023-08-14 11:12:55.7843 Info LogFactory has been closed.
+2023-08-14 11:14:08.0152 Info Message Template Auto Format enabled
+2023-08-14 11:14:08.0712 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-14 11:14:08.0929 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-14 11:14:10.9596 Info AppDomain Shutting down. LogFactory closing...
+2023-08-14 11:14:10.9693 Info LogFactory has been closed.
+2023-08-14 13:09:57.7998 Info Message Template Auto Format enabled
+2023-08-14 13:09:57.8529 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-14 13:09:57.8761 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-14 13:09:59.0814 Info AppDomain Shutting down. LogFactory closing...
+2023-08-14 13:09:59.0814 Info LogFactory has been closed.
+2023-08-14 13:10:43.3420 Info Message Template Auto Format enabled
+2023-08-14 13:10:43.4016 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-14 13:10:43.4235 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-14 13:10:45.0358 Info AppDomain Shutting down. LogFactory closing...
+2023-08-14 13:10:45.0358 Info LogFactory has been closed.
+2023-08-14 13:46:30.2340 Info Message Template Auto Format enabled
+2023-08-14 13:46:30.4452 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-14 13:46:30.4930 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-24 09:54:47.6377 Info Message Template Auto Format enabled
+2023-08-24 09:54:47.7120 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-24 09:54:47.7341 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-24 09:54:49.0762 Info AppDomain Shutting down. LogFactory closing...
+2023-08-24 09:54:49.0762 Info LogFactory has been closed.
+2023-08-24 09:55:14.3933 Info Message Template Auto Format enabled
+2023-08-24 09:55:14.4465 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-24 09:55:14.4677 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-24 09:55:17.4582 Info AppDomain Shutting down. LogFactory closing...
+2023-08-24 09:55:17.4683 Info LogFactory has been closed.
+2023-08-28 11:58:41.4276 Info Message Template Auto Format enabled
+2023-08-28 11:58:41.4877 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-28 11:58:41.5093 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-28 11:58:42.6666 Info AppDomain Shutting down. LogFactory closing...
+2023-08-28 11:58:42.6666 Info LogFactory has been closed.
+2023-08-28 11:58:44.7329 Info Message Template Auto Format enabled
+2023-08-28 11:58:44.7864 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-28 11:58:44.8075 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-28 11:58:47.6374 Info AppDomain Shutting down. LogFactory closing...
+2023-08-28 11:58:47.6374 Info LogFactory has been closed.
+2023-08-28 11:58:58.1050 Info Message Template Auto Format enabled
+2023-08-28 11:58:58.1589 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-28 11:58:58.1802 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-28 11:58:59.4148 Info AppDomain Shutting down. LogFactory closing...
+2023-08-28 11:58:59.4246 Info LogFactory has been closed.
+2023-08-28 11:59:49.8535 Info Message Template Auto Format enabled
+2023-08-28 11:59:49.9065 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-28 11:59:49.9277 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-28 11:59:51.8190 Info AppDomain Shutting down. LogFactory closing...
+2023-08-28 11:59:51.8289 Info LogFactory has been closed.
+2023-08-28 14:28:09.9170 Info Message Template Auto Format enabled
+2023-08-28 14:28:09.9718 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-28 14:28:09.9929 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-28 14:28:11.3083 Info AppDomain Shutting down. LogFactory closing...
+2023-08-28 14:28:11.3083 Info LogFactory has been closed.
+2023-08-28 14:28:37.0782 Info Message Template Auto Format enabled
+2023-08-28 14:28:37.1317 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-28 14:28:37.1528 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\menes\source\repos\btk\WebApi\WebApi\nlog.config
+2023-08-28 14:28:39.6086 Info AppDomain Shutting down. LogFactory closing...
+2023-08-28 14:28:39.6189 Info LogFactory has been closed.
